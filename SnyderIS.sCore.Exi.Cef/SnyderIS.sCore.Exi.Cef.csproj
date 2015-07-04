@@ -53,9 +53,9 @@
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
-    <Reference Include="Xilium.CefGlue, Version=3.0.0.0, Culture=neutral, PublicKeyToken=6235298024de30d5, processorArchitecture=MSIL">
+    <Reference Include="Xilium.CefGlue, Version=3.2272.2035.0, Culture=neutral, PublicKeyToken=6235298024de30d5, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\Dependencies\Xilium.CefGlue.dll</HintPath>
+      <HintPath>..\Libs\Xilium.CefGlue.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
