@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnyderIS.sCore.Exi.Mvc", "SnyderIS.sCore.Exi.Mvc\SnyderIS.sCore.Exi.Mvc.csproj", "{8006F826-763B-4901-9F35-054814DE7591}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnyderIS.sCore.Exi", "SnyderIS.sCore.Exi\SnyderIS.sCore.Exi.csproj", "{57285679-9407-45D9-B003-1EF1905E0FB4}"
@@ -8,6 +10,20 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnyderIS.sCore.Exi.Cef", "SnyderIS.sCore.Exi.Cef\SnyderIS.sCore.Exi.Cef.csproj", "{B928A030-E818-4634-9C6B-F9224E996BD6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnyderIS.sCore.Exi.Kiosk", "SnyderIS.sCore.Exi.Kiosk\SnyderIS.sCore.Exi.Kiosk.csproj", "{A89A1EDA-2B8D-4006-B8EA-1B353941235B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libs", "Libs", "{2A0E2E77-9ED8-4187-B7BC-A71B598551C0}"
+	ProjectSection(SolutionItems) = preProject
+		Libs\atk-sharp.dll = Libs\atk-sharp.dll
+		Libs\gdk-sharp.dll = Libs\gdk-sharp.dll
+		Libs\glade-sharp.dll = Libs\glade-sharp.dll
+		Libs\glib-sharp.dll = Libs\glib-sharp.dll
+		Libs\gtk-dotnet.dll = Libs\gtk-dotnet.dll
+		Libs\gtk-sharp.dll = Libs\gtk-sharp.dll
+		Libs\Mono.Cairo.dll = Libs\Mono.Cairo.dll
+		Libs\pango-sharp.dll = Libs\pango-sharp.dll
+		Libs\Xilium.CefGlue.dll = Libs\Xilium.CefGlue.dll
+		Libs\Xilium.CefGlue.WindowsForms.dll = Libs\Xilium.CefGlue.WindowsForms.dll
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
