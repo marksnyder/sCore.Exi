@@ -125,11 +125,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config">
-      <SubType>Designer</SubType>
-    </None>
-  </ItemGroup>
-  <ItemGroup>
     <ProjectReference Include="..\SnyderIS.sCore.Exi.Cef\SnyderIS.sCore.Exi.Cef.csproj">
       <Project>{b928a030-e818-4634-9c6b-f9224e996bd6}</Project>
       <Name>SnyderIS.sCore.Exi.Cef</Name>

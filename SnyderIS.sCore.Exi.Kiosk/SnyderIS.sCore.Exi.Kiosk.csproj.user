@@ -4,6 +4,6 @@
     <ProjectView>ShowAllFiles</ProjectView>
   </PropertyGroup>
   <PropertyGroup>
-    <ReferencePath>D:\Program Files (x86)\Mono-3.2.3\lib\mono\gtk-sharp-2.0\</ReferencePath>
+    <ReferencePath>C:\Dev\WorkSpace\sCore.Exi\SnyderIS.sCore.Exi.Kiosk\..\Libs\</ReferencePath>
   </PropertyGroup>
 </Project>

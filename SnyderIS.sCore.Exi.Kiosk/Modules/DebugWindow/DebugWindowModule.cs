@@ -28,10 +28,10 @@ namespace SnyderIS.sCore.Exi.Kiosk.Modules.DebugWindow
         {
             if (e.Char == 'D')
             {
-                var host = _mainView.CurrentBrowser.GetHost();
-                var wi = CefWindowInfo.Create();
-                wi.SetAsPopup(IntPtr.Zero, "DevTools");
-                host.ShowDevTools(wi, new DevToolsWebClient(), new CefBrowserSettings());
+                //var host = _mainView.CurrentBrowser.GetHost();
+                //var wi = CefWindowInfo.Create();
+                //wi.SetAsPopup(IntPtr.Zero, "DevTools");
+                //host.ShowDevTools(wi, new DevToolsWebClient(), new CefBrowserSettings());
 
             }
         }
